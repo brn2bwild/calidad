@@ -1,0 +1,4 @@
+Deberán cargar un archivo con los siguientes datos:
+  - Nombre completo
+  - Matrícula
+  - url de su repositorio en github donde está la actividad anterior
