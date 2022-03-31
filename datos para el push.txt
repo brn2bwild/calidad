@@ -1,0 +1,8 @@
+Deberán cargar un archivo con los siguientes datos:
+
+  - Nombre completo  PETRONILO DOMINGUEZ DOMINGUEZ
+  - Matrícula        19E30345
+
+  - url de su repositorio en github donde está la actividad anterior:
+
+       https://github.com/PETRODG98/primer_proyecto_petrodg
